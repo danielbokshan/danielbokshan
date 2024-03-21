@@ -6,4 +6,4 @@ I am currently studying Computer Science with a concentration in Software Develo
 I am passionate about cars, airplanes, and technology as a whole. My career goal is to develop software for an automotive company.
 
 - 👦🏽 My Pronouns: He/Him
-- 💻 Current Project: Tetropitris
+- 💻 Current Project: Tetropitris, ScrapeCBI
